@@ -18,5 +18,6 @@ public class ReverseString {
 		//method 2:
 		StringBuffer rev=new StringBuffer(word);
 		System.out.println(rev.reverse());
+		System.out.println(rev.reverse());
 	}
 }
